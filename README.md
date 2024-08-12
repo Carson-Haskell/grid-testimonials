@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Project](https://your-solution-url.com)
+- Solution URL: [View Project](https://carson-haskell.github.io/grid-testimonials/)
 
 ## My process
 
